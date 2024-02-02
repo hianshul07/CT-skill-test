@@ -1,0 +1,14 @@
+{
+  "ignorePatterns": [
+    "**/*.html",
+    "**/*.vue",
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "printWidth": 120,
+  "semi": true,
+  "singleQuote": true,
+  "tailwindcss": true
+}
